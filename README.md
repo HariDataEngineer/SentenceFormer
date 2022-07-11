@@ -1,5 +1,5 @@
 # SentenceFormer
-A deep learning model to predict the next word or words to complete the sentence
+ A Complete application with deep learning model to predict the next word or words to complete the sentence and REST API to interact with the trained model
 
 # A complete application with code for deep learning model and API to connect to the model trained , To use clone the repo and start the application in your localhost
 * [Note] Train with your custom data
